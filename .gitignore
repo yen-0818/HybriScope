@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# Configuration & Cache local (HybriScope spécifique)
+/cache/
+*.log
+.env
+
+# IDE
+.vscode/
+.idea/
